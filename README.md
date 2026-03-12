@@ -200,6 +200,8 @@ Python libraries used:
 ---
 
 # Repository Structure
+
+```
 llm-product-analytics
 │
 ├── data
@@ -214,9 +216,8 @@ llm-product-analytics
 ├── figures
 │   retention_heatmap.png
 │
-├── sql
-│
 └── README.md
+```
 
 ---
 
