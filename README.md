@@ -179,6 +179,14 @@ From the simulated dataset we observe:
 
 ---
 
+# Example Visualization
+
+Example cohort retention heatmap:
+
+![Retention Heatmap](figures/retention_heatmap.png)
+
+---
+
 # Tech Stack
 
 Python libraries used:
@@ -192,3 +200,37 @@ Python libraries used:
 ---
 
 # Repository Structure
+llm-product-analytics
+│
+├── data
+│ users.csv
+│ api_requests.csv
+│ pricing.csv
+│ billing.csv
+│
+├── notebooks
+│ llm_product_analytics.ipynb
+│
+├── figures
+│   retention_heatmap.png
+│
+├── sql
+│
+└── README.md
+
+---
+
+# Future Extensions
+
+Possible extensions include:
+
+- experiment analysis for model adoption
+- pricing optimization
+- user segmentation by industry
+- infrastructure capacity forecasting
+
+---
+
+# Youqing Zhou
+
+Personal portfolio project exploring analytics for AI platform products.
